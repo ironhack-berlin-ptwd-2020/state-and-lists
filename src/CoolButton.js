@@ -16,7 +16,7 @@ const CoolButton = (props) => {
   }
 
   return (
-    <button className={props.className}>Button 1</button >
+    <button className={htmlClasses}>Button 1</button >
   );
 };
 
